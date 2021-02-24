@@ -1,0 +1,68 @@
+module.exports = {
+  home: {
+    search: 'Search',
+    trade: 'Trade',
+    block: "Block",
+    account: 'Account',
+    lastBlock: 'Latest Block',
+    tradeVolume: 'Trading Volume',
+
+    blockDifficulty: 'BlockDifficulty',
+    NetworkComputingPower: 'NetworkComputingPower',
+    blockHeight: 'Block Height',
+    since: 'since',
+    miner: 'mine',
+    minerFee: 'Miner\'s fee',
+    at: "In",
+    seconds: "seconds",
+    tradeNums: "transaction",
+    tradeHash: "Trade Hash",
+    tradeNums1: "Number of transactions",
+    from: "From",
+    to: "To",
+    all:"All",
+    alt:"Search wallet address or transaction hash",
+    home:"Home",
+    tradeInfo:"Trade Info",
+    blockInfo:"Block Info"
+  },
+  trade:{
+    sender: "Sender",
+    receiver: "Receiver",
+    tradeTime:"Trade Time",
+    tradeNums1: "Number of transactions",
+    transactionFee:"Transaction Fee",
+    nextPage:"Next Page",
+    lastPage:"Last Page",
+    currentPage:"Current Page",
+    gasLimit:"Gas Limit",
+    gasUsed:"Gas Used",
+    gasPrice:"Gas Price",
+    tradeStatus:"Trade Status",
+    confirmation:"Confirmation",
+    tradeSuccess:"Success"
+  },
+  block:{
+    blockTime:"Block Time",
+    tradeNums1: "Number of transactions",
+    miner:"Miner",
+    difficulty:"Difficulty",
+    reward:"Reward",
+    totalDifficulty:"Total Difficulty",
+    blockSize:"Block Size"
+  },
+  account:{
+    sort:"Sort",
+    address:"Address",
+    balance:"Balance",
+    rate:"Percent",
+    tradeNums1: "Number of transactions",
+    accountInfo:"Account Info",
+    account:"Account",
+    transferList:"Transfer Record",
+    summary:"Summary",
+    all:"All",
+    in:"In",
+    out:"Out"
+  }
+}

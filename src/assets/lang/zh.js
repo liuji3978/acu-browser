@@ -1,0 +1,68 @@
+module.exports = {
+  home: {
+    search: '登录',
+    trade: '交易',
+    account: "账户",
+    block: '区块',
+    lastBlock: '最新区块',
+    tradeVolume: '交易量',
+    blockDifficulty: '区块难度',
+    NetworkComputingPower: '全网算力',
+    blockHeight: '区块高度',
+    since: '由',
+    miner: '开采',
+    minerFee: '矿工费',
+    at: "在",
+    seconds: "秒内完成",
+    tradeNums: "笔交易",
+    tradeHash: "交易标识",
+    tradeNums1: "交易数量",
+    from: "从",
+    to: "到",
+    all:"查看全部",
+    alt:"搜索地址、交易信息",
+    home:"首页",
+    tradeInfo:"交易信息",
+    blockInfo:"区块信息"
+  },
+  trade:{
+    sender: "发送方",
+    receiver: "接收方",
+    tradeTime:"交易时间",
+    tradeNums1: "交易数量",
+    transactionFee:"交易费用",
+    nextPage:"下一页",
+    lastPage:"上一页",
+    currentPage:"当前页",
+    gasLimit:"燃料上限",
+    gasUsed:"燃料使用",
+    gasPrice:"燃料价格",
+    tradeStatus:"交易状态",
+    confirmation:"确认数",
+    tradeSuccess:"成功"
+  },
+  block:{
+    blockTime:"出块时间",
+    tradeNums1: "交易数量",
+    miner:"矿工",
+    difficulty:"区块难度",
+    reward:"奖励",
+    totalDifficulty:"总难度",
+    blockSize:"出块大小"
+  },
+  account:{
+       sort:"排名",
+       address:"地址",
+        balance:"余额",
+        rate:"占比",
+        tradeNums1: "交易数量",
+        accountInfo:"账户信息",
+        account:"账户",
+        transferList:"转账记录",
+        summary:"概述",
+        all:"所有账号",
+        in:"转入",
+        out:"转出"
+  }
+
+}
